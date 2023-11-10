@@ -28,7 +28,7 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![output](/swapp_output.png.png)
+![output](/swapp_output.png)
 
 
 ## RESULT:
