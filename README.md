@@ -28,8 +28,8 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![output](![image](https://github.com/Manikandanrag/Swapping-two-values/assets/138849491/9bb3e7ca-42ec-404d-8b0c-6c46b5b37009)
-)
+![image](https://github.com/Manikandanrag/Swapping-two-values/assets/138849491/3ed71da4-b8ca-463a-b37e-77f50f65fe6c)
+
 
 
 ## RESULT:
